@@ -39,7 +39,7 @@ I would like to express my gratitude to PWSkills for providing an excellent cour
 ## Contact Information
 If you have any questions or suggestions regarding the code or the course, feel free to reach out to me. You can contact me through the following channels:
 1) Email: kmhuzaifabinafzal@gmail.com
-2)LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/huzaifa-khan-b11b35264/)
+2) LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/huzaifa-khan-b11b35264/)
 
 I hope you find this repository useful and enjoy exploring the code examples and projects. 
 Happy coding!
