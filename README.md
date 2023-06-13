@@ -5,7 +5,7 @@ This repository contains the code examples and projects I have completed during 
 ## Course Overview
 The "Python for Data Science" course by PWSkills covered the following topics:
 
-## Introduction to Python programming language
+Introduction to Python programming language
 Python libraries for data manipulation and analysis (such as NumPy and Pandas)
 Data visualization with Matplotlib and Seaborn
 Machine learning basics using scikit-learn
