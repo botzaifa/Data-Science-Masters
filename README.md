@@ -1,5 +1,5 @@
 # Data-Science-Masters
-# Python for Data Science
+
 This repository contains the code examples and projects I have completed during the "Python for Data Science" course offered by PWSkills. The course provided a comprehensive introduction to Python programming and its applications in the field of data science.
 
 ## Course Overview
