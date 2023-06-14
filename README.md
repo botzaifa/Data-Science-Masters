@@ -2,16 +2,7 @@
 
 This repository contains the code examples and projects I have completed during the "Python for Data Science" course offered by PWSkills. The course provided a comprehensive introduction to Python programming and its applications in the field of data science.
 
-## Course Overview
-The "Python for Data Science" course by PWSkills covered the following topics:
 
-1) Introduction to Python programming language
-2) Python libraries for data manipulation and analysis (such as NumPy and Pandas)
-3) Data visualization with Matplotlib and Seaborn
-4) Machine learning basics using scikit-learn
-5) Exploratory data analysis and feature engineering
-6) Model evaluation and validation techniques
-7) Advanced topics in data science (e.g., deep learning, natural language processing)
 
 ## Repository Structure
 The repository is organized into different folders, each representing a specific topic or project covered in the course. Here's a brief overview of the folder structure:
