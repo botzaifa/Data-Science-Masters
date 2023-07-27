@@ -1,0 +1,31 @@
+Once you are exposed to the RAW DATA follow these steps:
+
+Step-1: EDA (Exploratory Data Analysis):-
+
+	1. Check for Numerical Features (histogram, PDF)
+	2. Check for Categorical Features
+	3. Missing Values (Visualize all the Graphs)
+	4. Outliers (Box Plot)
+	5. Cleaning of data
+
+
+Step-2: Handling the Missing Values	
+	1. Mean 
+	2. Median 
+	3. Mode
+
+Step-3: Handling the Imbalanced Datasets
+
+Step-4: Treating the Outliers
+
+Step-5: Scaling down the data (Standardization, Normalization)
+
+Step-6: Converting the Categorical Features into Numerical Feature
+
+Step-7: Feature Selection
+	(Include only those attributes which are necessary)
+	1. Correlation
+	2. K-Neighbours
+	3. ChiSquare
+	4. Genetic Algorithm
+	5. Feature Importance (Extra Tree Classifier)
