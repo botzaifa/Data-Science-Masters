@@ -1,0 +1,28 @@
+Steps to be Followed While Performing EDA:
+
+NOTE: Always write insights about each and every step
+
+Step-1: Gather genral info about the data 
+	(what is the data about)
+
+Step-2: a. Summary of the dataset(info)
+	b. Descriptive summary of the data
+	c. size of the data
+
+Step-3: Study the attributes(features) of the dataset
+
+Step-4: Perform data checks
+	1. Check Missing values
+	2. Check duplicates
+	3. Check data types
+	4. Check the number of unique values of each column
+	5. Check the statistics of dataset
+	6. Check various categories present in the different catergorical coulmn
+
+Step-5: Seggregate numerical and categorical features
+
+(Sub-Step): Create an aggregate of the total score with mean if possible
+
+Step-6: Visualization of the data
+
+Step-7: Write all the Insights that you have gathered in Markdown
