@@ -1,11 +1,11 @@
 # Data-Science-Masters
 
-This repository contains the code examples and projects I have completed during the "Python for Data Science" course offered by PWSkills. The course provided a comprehensive introduction to Python programming and its applications in the field of data science.
+This repository contains the code examples and projects I have completed during the "Python for Data Science" course offered by PWSkills as well as from other sorces such as YoutTube and Google. This Repository will help you get the gist of the code that you require for a revision and for the complete learning from the scratch.
 
 
 
 ## Repository Structure
-The repository is organized into different folders, each representing a specific topic or project covered in the course. Here's a brief overview of the folder structure:
+The repository is organized into different folders, each representing a specific topic or a project. Here's a brief overview of the folder structure:
 
 1) Introduction: Contains introductory examples and exercises to get started with Python programming.
 2) Data Manipulation: Includes code snippets and projects related to data manipulation using libraries like NumPy and Pandas.
@@ -23,9 +23,6 @@ To get started with the code in this repository, follow these steps:
 4) Open the Jupyter Notebook files (.ipynb) using Jupyter Notebook or any other compatible environment.
 5) Run the code cells and experiment with the examples provided.
 6) Feel free to modify the code or build upon it to suit your needs.
-
-## Acknowledgements
-I would like to express my gratitude to PWSkills for providing an excellent course on Python for Data Science. The course content and projects have immensely helped me strengthen my understanding of Python and its applications in the field of data science.
 
 ## Contact Information
 If you have any questions or suggestions regarding the code or the course, feel free to reach out to me. You can contact me through the following channels:
