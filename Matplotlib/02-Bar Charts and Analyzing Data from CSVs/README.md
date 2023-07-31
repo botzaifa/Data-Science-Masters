@@ -1,4 +1,4 @@
-Concepts Covered in Order:
+# Concepts Covered in Order:
 1. Simple Vertical Bar Chart
 2. Method-1 to represent Multiple data
 3. Method-2
