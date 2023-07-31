@@ -1,6 +1,6 @@
 # Data-Science-Masters
 
-This repository contains the code examples and projects I have completed during the "Data Science Masters" course offered by PWSkills as well as from other sorces such as YoutTube and Google. This Repository will help you get the gist of the code that you require for a revision and for the complete learning from the scratch.
+This repository contains the code examples and projects I have completed during the "Data Science Masters" course offered by PWSkills as well as from other sorces such as YouTube and Google. This Repository will help you get the gist of the code that you require for a revision and for the complete learning from the scratch.
 
 
 
