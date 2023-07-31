@@ -1,4 +1,4 @@
-Concepts covered in Order:
+# Concepts covered in Order:
 1. Simple Pie Chart
 2. Labels
 3. Edges
