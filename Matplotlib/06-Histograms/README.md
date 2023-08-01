@@ -5,3 +5,6 @@ Contents covered in Order:
 4. Logarithms
 5. Custom vertical Line 
 6. LineWidth
+
+# Picture of the Final Graph:
+![Final Image](Histograms.png) 
