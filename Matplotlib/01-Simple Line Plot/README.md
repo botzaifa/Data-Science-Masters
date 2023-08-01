@@ -16,4 +16,4 @@
 15. Saving the Graph
 
 # Picture of the Final Graph
-![Final Image]('plot.png')
+![Final Image](plot.png)
