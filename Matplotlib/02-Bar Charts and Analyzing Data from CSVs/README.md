@@ -9,3 +9,6 @@
 8. Importing data from CSV
 9. Working on the CSV data 
 10. Sorting the Chart
+
+# Picture of the Final Graph
+![Final Image](Bar Chart.png) 
