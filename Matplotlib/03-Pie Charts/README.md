@@ -8,3 +8,6 @@
 7. Starting Angle
 8. Percentages to the Slices
 9. Saving the Chart
+
+# Picture of the Final Graph:
+![Final Image](PieChart.png) 
