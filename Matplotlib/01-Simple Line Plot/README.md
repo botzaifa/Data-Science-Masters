@@ -14,3 +14,6 @@
 13. Plotting Styles
 14. Using Comic's style
 15. Saving the Graph
+
+# Picture of the Final Graph
+![Final Image]('plot.png)
