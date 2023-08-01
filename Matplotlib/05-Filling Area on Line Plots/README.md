@@ -8,3 +8,6 @@
 7. Another 'where' clause
 8. Specific Filling
 9. Labels
+
+# Picture of the Final Graph:
+![Final Image](Plot.png) 
