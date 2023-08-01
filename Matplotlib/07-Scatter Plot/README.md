@@ -12,3 +12,6 @@
 11. Scatter from CSV
 12. Log scale
 13. Comparison with Third Variable
+
+# Picture of the Final Graph
+![Final Image](scatter.png)
