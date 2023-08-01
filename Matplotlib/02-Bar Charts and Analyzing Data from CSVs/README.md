@@ -11,4 +11,4 @@
 10. Sorting the Chart
 
 # Picture of the Final Graph
-![Final Image](Bar Chart.png) 
+![Final Image](BarChart.png) 
