@@ -1,0 +1,32 @@
+# EDA Cheat-Sheet
+1. Importing the Libraries
+2. Reading the Data
+3. Finding Dimensions
+	shape()
+4. Finding more information:
+	info()
+5. Summary of the data
+	describe()
+6. Finding missing values
+	a. isnull().sum()
+	b. isna().sum()
+7. Finding Duplicate values
+	duplicated().sum()
+8. Finding Unique Values
+	nunique()
+9. Segregate numerical and catgorical feature:
+numerical_feat = [feature for feature in df.columns if df[feature].dtypes != 'O']
+categorical_feat = [feature for feature in df.columns if df[feature].dtypes == 'O']
+11. Find total:
+	df[tot]=df[a]+df[b]+df[c]
+12. Find averege:
+	df[avg] = df[tot]/3
+13. Visualize main features
+14. Compare feat. 1 with main
+15. Compare feat. n with main
+16. Visualize numerical features:
+	sns.pairplot(df)
+17. Find correlation:
+	sns.heatmap(df.corr(),annot=True)
+
+NOTE: Write Insights at all the steps
