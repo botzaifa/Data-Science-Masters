@@ -17,16 +17,20 @@ The repository is organized into different folders, each representing a specific
 
 ## Getting Started
 To get started with the code in this repository, follow these steps:
-1) Clone the repository to your local machine using the command: git clone "git@github.com:botzaifa/Data-Science-Masters.git"
-2) Install the necessary dependencies by running pip install -r requirements.txt.
-3) Navigate to the relevant folder for the topic or project you want to explore.
-4) Open the Jupyter Notebook files (.ipynb) using Jupyter Notebook or any other compatible environment.
-5) Run the code cells and experiment with the examples provided.
-6) Feel free to modify the code or build upon it to suit your needs.
+1) Clone the repository to your local machine using the command:
+   ```bash
+   git clone git@github.com:botzaifa/Data-Science-Masters.git
+   ```
+
+3) Install the necessary dependencies by running pip install -r requirements.txt.
+4) Navigate to the relevant folder for the topic or project you want to explore.
+5) Open the Jupyter Notebook files (.ipynb) using Jupyter Notebook or any other compatible environment.
+6) Run the code cells and experiment with the examples provided.
+7) Feel free to modify the code or build upon it to suit your needs.
 
 ## Contact Information
 If you have any questions or suggestions regarding the code or the course, feel free to reach out to me. You can contact me through the following channels:
-1) Email: kmhuzaifabinafzal@gmail.com
+1) Email: workwithhuzi@gmail.com
 2) LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/huzaifa-khan-b11b35264/)
 
 I hope you find this repository useful and enjoy exploring the code examples and projects. 
