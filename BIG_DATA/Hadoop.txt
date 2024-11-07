@@ -1,0 +1,52 @@
+HADOOP: 
+
+What is a Hadoop?
+-> Hadoop is a framework for distributed processing of large data sets across clusters of commodity computers
+
+It comprises of:
+
+HADOOP = HDFS + MapReduce
+
+HDFS (Reliable Shared Storage)
+MapReduce (Distributed Computation)
+
+
+
+Why do we use Hadoop?
+There are various types of File systems present inside our different kinds of laptops
+
+Like for eg:
+- Windows contains: FAT32, NTFS
+- MAC contains: HFS, HFS+
+- Linux contains: ext3, ext4, XFS
+These different types contains different file and volume limit 
+
+If we want to keep track of everything without being a difficulty in between, we use Hadoop Distributed File System (HDFS) which is a genralized form of file system (distributed file system)
+
+We can keep track of all our nodes and servers irrespective of the device
+
+It is also used to keep track of all the Meta Data aswell.
+
+(Note: It is not a replace of your existing file system it is sitting above your filesystem)
+
+
+
+Advantages of HDFS:
+1. Supports distributed Processing
+	- Blocks (not as whole files)
+2. Ability to Handle Failures
+	- Replicate Blocks
+3. Scalability
+	- Able to support future expansion
+4. Cost effective
+	- Commodity hardware
+
+
+
+Functions of a File System:
+- Control how data is stored and retrieved
+- Meta data about the files and folders
+- Permissions and security
+- Manage storage space efficiently
+
+
